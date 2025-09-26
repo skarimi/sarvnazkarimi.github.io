@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Homepage of Sarvnaz Karimi"
 title_separator          : "-"
 name                     : &name "Sarvnaz Karimi"
-description              : &description "personal description"
+description              : &description "Principal researcher in Natural Language Processing (NLP)"
 url                      : https://sarvnazkarimi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "SK.png"
   name             : "Sarvnaz Karimi"
   pronouns         : # example: "she/her"  
-  bio              : "Principal Research Scientist, Expertise in Natural Language Processing"
+  bio              : "Principal Research Scientist, Expertise in Natural Language Processing, Information Retrieval and applications of these in Health and Climate adaptation."
   location         : "Australia"
   employer         : "CSIRO"
   uri              : # URL
@@ -52,29 +52,11 @@ author:
 
   # Social media
   bluesky          : "skarimi.bsky.social" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : "sarvnaz-karimi-phd-64ab491" # Username
-  mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
   twitter          : "sarvk" # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
   wikipedia        : # Username
-  xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
