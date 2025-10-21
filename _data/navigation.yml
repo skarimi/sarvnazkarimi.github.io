@@ -1,0 +1,16 @@
+# _data/navigation.yml
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Mentoring"
+    url: /mentoring/
+  - title: "Contact"
+    url: /contact/
+  - title: "CV"
+    url: /files/SarvnazKarimi_CV.pdf
