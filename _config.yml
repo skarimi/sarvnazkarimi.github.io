@@ -1,0 +1,36 @@
+# _config.yml
+title: "Dr Sarvnaz Karimi"
+email: sarvnaz.karimi@csiro.au
+description: >
+  Principal Research Scientist at CSIRO Data61 — NLP, Information Retrieval, Biomedical Text Mining, and Digital Health.
+baseurl: ""
+url: "https://sarvnazkarimi.github.io"
+github_username: sarvnazkarimi
+
+theme: academicpages
+markdown: kramdown
+permalink: pretty
+future: true
+include:
+  - _pages
+  - _posts
+
+author:
+  name: Dr Sarvnaz Karimi
+  avatar: /images/profile.jpg
+  bio: Principal Research Scientist at CSIRO Data61
+  location: Marsfield, NSW, Australia
+  uri: https://people.csiro.au/K/S/Sarvnaz-Karimi
+  email: sarvnaz.karimi@csiro.au
+  linkedin: sarvnaz-karimi-64ab491
+  scholar: https://goo.gl/KoTmwz
+
+interests:
+  - Natural Language Processing
+  - Information Retrieval
+  - Biomedical Text Mining
+  - Digital Health
+  - NLP for Climate Science & Agriculture
+  - Large Language Models for Science
+
+google_analytics:
